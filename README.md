@@ -1,10 +1,6 @@
-# DataStorage
+# Data Storage
 
-
-Lo	scopo	del	progetto	è	lo	sviluppo	di	un	componente	software	di	supporto	alla	gestione	di	
-insiemi di	dati.	
-
-Si	 richiede	 di	 progettare,	 realizzare	 e	 documentare	 la	 collezione SecureDataContainer<E>.	
+Progettare,	 realizzare	 e	 documentare	 la	 collezione SecureDataContainer<E>.	
 SecureDataContainer<E>	 è	 un	 contenitore	 di	 oggetti di	 tipo	 E.	 Intuitivamente	 la collezione	 si	 comporta	
 come	una	specie	Data	Storage per	la	memorizzazione	e	condivisione	di	dati	(rappresentati	nella	simulazione	
 da	oggetti	di	tipo	E).		La	collezione	deve	garantire	un	meccanismo	di	sicurezza	dei	dati	fornendo	un	proprio	
